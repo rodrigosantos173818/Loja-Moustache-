@@ -1,0 +1,1 @@
+export default function Loading(){return <main className="catalog-page" aria-busy="true"><p className="eyebrow">MOUSTACHE</p><h1 className="loading-title">Carregando<span>.</span></h1><p className="loading-copy">Buscando as informações da loja.</p></main>}
