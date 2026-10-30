@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 260" role="img" aria-labelledby="title">
+  <title id="title">Moustache</title>
+  <rect width="540" height="260" fill="#000"/>
+  <path fill="#fff" d="M270 134c-20-39-47-56-77-56-26 0-42 14-60 35-20 25-43 42-75 42-20 0-35-7-45-17-5-5-8-11-7-17 1-7 8-12 15-9 5 2 5 7 3 11-2 4 1 9 5 12 8 7 20 10 34 10 28 0 46-17 64-39 19-24 40-40 70-40 31 0 58 19 73 51 16-32 43-51 74-51 30 0 51 16 70 40 18 22 36 39 64 39 14 0 26-3 34-10 4-3 7-8 5-12-2-4-2-9 3-11 7-3 14 2 15 9 1 6-2 12-7 17-10 10-25 17-45 17-32 0-55-17-75-42-18-21-34-35-60-35-30 0-57 17-77 56Z"/>
+  <text x="270" y="218" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-size="66" font-style="italic" font-weight="900" letter-spacing="-4" text-anchor="middle">MOUSTACHE</text>
+</svg>

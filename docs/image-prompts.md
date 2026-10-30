@@ -1,0 +1,16 @@
+﻿# Prompts de imagens
+
+Ferramenta: imagegen integrada. Os assets são ilustrativos e não representam produtos oficiais.
+
+## Hero
+
+Use case: photorealistic-natural. Asset: premium menswear website editorial hero, wide landscape 3:2 photograph. One male fashion model, around 30, tanned skin, dark brown hair, tasteful stubble, wearing an unbranded relaxed black short sleeve polo shirt with subtle textured knit and beige tailored trousers, hands in pockets, framed from just below chin down to upper thigh. Model occupies right half, left half is mostly textured warm light gray concrete architectural wall, background far right has darker gray concrete architectural planes. Natural directional sunlight from upper left with soft realistic shadows, muted neutral sophisticated palette, rich black knit texture, filmic fashion magazine photography, authentic elegant masculine casual mood, very high quality, no text, no logos, no watermarks. This is illustrative campaign imagery, not an actual store product.
+
+## Primeira composição de produtos (substituída)
+
+Use case: product-mockup. A perfectly regular 2 by 2 grid contact sheet of FOUR separate premium men's clothing studio product photographs. Each quadrant has identical light warm grey studio background, same lighting, same scale. Top left: plain off-white short sleeve crewneck men's t-shirt, flat lay, straight clean drape, fully visible. Top right: plain black textured knit short sleeve polo shirt, flat lay, fully visible. Bottom left: light taupe beige short sleeve linen button down men's shirt, fully visible flat lay. Bottom right: men's medium blue straight leg denim jeans elegantly folded once, fully visible flat lay. Each single piece centered individually, enough margin from its quadrant edges to allow independent crop, all four exactly aligned in equal rectangular quadrants, no borders or gaps, no props, NO TEXT, no logos, no brand labels, no price tags, no people, editorial e-commerce photography, realistic premium fabric texture, soft natural shadows. Landscape 3:2 overall contact sheet.
+
+## Composição final de produtos
+
+Generate a PORTRAIT 1024x1536 studio e-commerce photography contact sheet with a 2 column by 2 row regular grid of exactly FOUR separate men's garments. Overall image MUST be portrait orientation 2:3. Each quadrant is a TALL PORTRAIT rectangle, each showing ONE complete garment with generous empty background ALL around including above collar and below hem. Use identical seamless light warm grey background (#e5e3dc) across entire image, no gaps, no borders, no grid lines, NO TEXT OR LABELS. Top left quadrant: plain off-white short sleeve crewneck t-shirt. Top right quadrant: plain black fine textured knit short sleeve polo shirt. Bottom left quadrant: plain beige linen short sleeve button-down shirt. Bottom right quadrant: folded mid-blue straight denim jeans. All flat-lay studio photographed, elegant authentic clothing fabric details, same soft natural lighting and gentle shadows, no logos, no brands, no props, no people. Garments positioned in center of each tall cell, taking up about 65% width and 65% height of their cell. Never cut off collars, sleeves or hems. Premium minimal product editorial photography. Four images suitable to be cropped apart into four individual portrait product photos.
+
